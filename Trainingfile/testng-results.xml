@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="25" started-at="2015-10-08T16:07:30Z" finished-at="2015-10-08T16:07:30Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="25" started-at="2015-10-08T16:07:30Z" finished-at="2015-10-08T16:07:30Z">
+      <class name="com.jenk.SamplePrints">
+        <test-method status="PASS" signature="print()[pri:0, instance:com.jenk.SamplePrints@d2a49d]" name="print" duration-ms="11" started-at="2015-10-08T17:07:30Z" finished-at="2015-10-08T17:07:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- print -->
+      </class> <!-- com.jenk.SamplePrints -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
